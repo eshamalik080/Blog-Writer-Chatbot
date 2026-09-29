@@ -1,0 +1,25 @@
+# Virtual environment
+blog_env/
+venv/
+.env/
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Generated blog files
+*.md
+
+# OS
+.DS_Store
+Thumbs.db
